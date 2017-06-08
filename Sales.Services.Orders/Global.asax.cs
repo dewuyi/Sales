@@ -1,4 +1,4 @@
-﻿namespace Moonpig.Services.Orders
+﻿namespace Sales.services.Orders
 {
     using System.Web.Http;
 
